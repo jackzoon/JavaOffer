@@ -1,5 +1,8 @@
 package com.halen.step1;
 
+/**
+ * 二维数组中的查找
+ */
 public class P_004 {
 
     public boolean Find(int target, int [][] array) {

@@ -3,6 +3,9 @@ package com.halen.step1;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * 数组中重复的数字
+ */
 public class P_003 {
 
     public boolean duplicate(int numbers[],int length,int [] duplication) {
